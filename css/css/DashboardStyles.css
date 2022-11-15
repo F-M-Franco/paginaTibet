@@ -1,0 +1,63 @@
+body { 
+    margin: 0;
+}
+main{
+    border-top:0.5vw solid var(--themeColorDetails1);
+    background-image:url('https://i.imgur.com/wrD9MHA.png?1'); 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 85vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#pfp{
+    width: 15vw;
+    height: 15vw;
+    margin: 1vw;
+    border: 0.25vw solid var(--themeColorDetails1);
+    border-radius: 100%;
+}
+.contentBox{
+    display:grid;
+    grid-template-columns: 20vw 35vw;
+    margin: 2.5vw;
+    border-radius: 2.5vw;
+    box-shadow:  0 0 1.5vw 1.5vw var(--themeTextShadows);
+}
+#contentBoxSection1{
+    text-align: center;
+    border: 0.15vw solid var(--themeColorDetails1);
+    height: 65vh;
+    background-color: antiquewhite;
+    border-radius: 2.5vw 0 0 2.5vw; 
+}
+#contentBoxSection2{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 65vh;
+    padding: 1.5vw;
+    border: 0.15vw solid var(--themeColorDetails1);
+    border-left: 0;
+    background-color: antiquewhite;
+    border-radius: 0 2.5vw 2.5vw 0; 
+}
+.wrapper{
+    width:100%;
+}
+.userInfoBox{
+    display: flex;
+    width:100%;
+    height: 4vw;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 2.5vw; 
+    background-color: rgb(243, 222, 195);
+}
+.userInfoBox p{
+    margin-left: 1vw;
+}
+#nameDisplaySection1{
+    font-size: calc(var(--defaultFontSize)*2);
+}
