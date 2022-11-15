@@ -1,0 +1,9 @@
+<div class="informationBox">
+        <h1>Sobre Nosotros</h1>
+        <p>
+                Somos Dylan Szapiro, Félix Franco y Julián Pérez 3 alumnos del 4to año del colegio politécnico modelo. 
+                Este es un proyecto que se nos asignó en abril de 2022. 
+                Está enfocada en información sobre ciertos animales y habitats del tibet.
+        </p>
+</div>
+<picture class="imageBox"><img class="imagen"src="https://i.imgur.com/nm6Wd5q.png" alt="manul"></picture>

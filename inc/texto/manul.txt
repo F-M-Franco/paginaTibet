@@ -1,0 +1,42 @@
+<div class="informationBox">
+    <p class="titleText">Otocolobus Manul</p>
+    <p>Es una especie de mamifero carnivoro que habita en las estepas de Mongolia, Siberia y el Tibet.
+    Es llamado a veces gato de pallas, porque fue clasificado por el Zoologo Peter Pallas.
+    </p>
+    <p class="titleText">Taxonomía</p>
+    <ul>
+        <li>Reino: Animalia</li>
+        <li>Filo: Chordata</li>
+        <li>Clase: Mammalia</li>
+        <li>Orden: Carnivora</li>
+        <li>Familia: Felidae</li>
+        <li>Género: Otocolobus</li>
+        <li>Especie: Otocolobus Manul</li>
+    </ul>
+</div>
+<picture class="imageBox"> <img class="imagen"src="https://i.imgur.com/GZIQvqV.jpg" alt="manul"/> </picture>
+<div class="informationBox">
+    <p class="titleText">Descripción</p>
+    <p>	Tiene un tamaño similar a la de un gato doméstico, de entre 46 y 65 centímetros de longitud, además de una cola que mide entre 21 y 31 centímetros de largo, y un peso que varía entre 2,5 y 4,5 kilos.
+    Los ojos tienen las pupilas redondeadas en lugar de las de forma de grieta de las de los otros gatos pequeños, las patas son proporcionalmente más cortas que las de otros gatos, mantiene las orejas muy bajas y separadas, y tiene unas garras inusualmente cortas. 
+    El hocico es corto en comparación con el de otros gatos, dándole un aspecto aparentemente aplanado.
+    Las cortas mandíbulas tienen menos dientes de lo habitual entre los félidos, estando ausentes el primer par de premolares superiores.
+    Su pelaje es de color ocre con franjas verticales oscuras en el torso y las patas delanteras, las cuales no siempre son visibles debido a su denso pelaje.</p>
+    <p class="titleText">Dieta</p>
+    <p>Se cree que son cazadores crepusculares, que se alimentan de pequeños roedores y pájaros. Cazan principalmente sorprendiendo o acosando a sus presas, utilizando la vegetación baja o el terreno rocoso para esconderse, ya que no son corredores muy rápidos. 
+    Pasan la mayor parte del día refugiados en grietas en las rocas o en madrigueras abandonadas por otros animales, aunque también se les ha visto tomando el sol durante el día.</p>
+    <p class="titleText">Conservación</p>
+    <p>El manul ha sido cazado por su pelaje. Antes de convertirse legalmente en protegido, decenas de miles de pieles se obtenían anualmente a sus países de origen (China, Mongolia, Afganistán y Rusia).
+    Hoy en día es considerado un beneficio para el entorno, dado que se alimenta de especies consideradas plagas para la agricultura. Sin embargo, el envenenamiento de roedores y picas, también puede afectar a la supervivencia de esta especie de felino.
+    El éxito de la cría en cautividad es difícil. Aunque se reproduce bien, las tasas de supervivencia son bajas debido a las infecciones. Esto se ha atribuido a un sistema inmunológico poco desarrollado, ya que su hábitat natural es aislado, y por lo tanto, normalmente no estarían expuestos a infecciones.</p>
+</div>
+<picture class="imageBox"> <img class="imagen" src="https://i.imgur.com/bGrUIrJ.jpg" alt="manul"> </picture>
+<div class="informationBox">
+    <p class="titleText">Subespecies</p>
+    <ul>
+        <li>Otocolobus Manul Manul(Mongolia, Rusia y oeste de China)</li>
+        <li>Otocolobus manul ferruginea(Irán, Armenia, Kazajistán, Kirguistán, Turkmenistán, Uzbekistán, Tayikistán, Afganistán y Pakistán)</li>
+        <li>Otocolobus manul nigripecta(Cachemira, Nepal y Tíbet)</li>
+    </ul>
+</div>
+<picture class="imageBox"> <img class="imagen"src="https://i.imgur.com/UKTwfkt.jpg" alt="manul"/> </picture>

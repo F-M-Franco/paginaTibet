@@ -1,0 +1,21 @@
+<div class="informationBox">
+  <h1>Estepa Euroasiática</h1>  
+  <p>Es la ecorregión de estepa que cubre el centro del continente de Eurasia. Posee pastizales templados, sabanas y matorrales.
+  Se extiende desde Moldavia, atravesando Ucrania hasta Siberia. Posee tres subregiones: </p>
+  <ul>
+  <li>Estepa Póntica(Europa del Este)</li>
+  <li>Desierto del Ryn(Kazajistán)</li>
+  <li>Estepa de Tian Shan(China)</li>
+  </ul>
+  <p>Los animales mencionados en esta pagina que viven en la estepa son El Otocolobus Manul y el Yak.</p>
+</div>
+<picture class="imageBox"><img class="imagen"src="https://i.imgur.com/9pscDxD.jpg" alt="manul"></picture>
+<div class="informationBox">
+  <h1>Cordillera de Asia Central</h1>
+  <p>En la Cordillera de Asia Central las Montañas Alai, que son parte de la cordillera del Paramir, son
+  montañas que se extienden desde la cordillera de las Tian Shan, en el oeste de Kirguistán, hasta Tayikistán.
+  Su punto mas elevado es el pico Tandykul, con 5544 metros sobre el nivel del mar.
+  El animal mencionado en esta pagina que vive en la Cordillera es el Buitre. 
+  </p>
+</div>
+<picture class="imageBox"><img class="imagen"src="https://i.imgur.com/b8dojM9.jpg" alt="manul"></picture>

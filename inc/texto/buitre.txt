@@ -1,0 +1,22 @@
+<div class="informationBox">
+	<h1>Sarcogyps Calvus</h1>
+	<p>El Buitre cabecirrojo es una especie de ave accipitriforme que vive en Asia desde Pakistán hasta la península de Malaca</p>
+	<h1>Taxonomía</h1>
+	<ul>
+		<li>Reino: Animalia</li>
+		<li>Filo: Chordata</li>
+		<li>Clase: Aves</li>
+		<li>Orden: Accipitriformes</li>
+		<li>Familia: Accipitridae</li>
+		<li>Género:	Sarcogyps</li>
+		<li>Especie: S. calvus</li>
+	</ul>
+</div>
+<picture class="imageBox"><img class="imagen"src="https://i.imgur.com/5srIyso.jpg" alt="manul"></picture>
+<div class="informationBox">
+	<h1>Descripción</h1>
+	<p>Es un buitre de tamaño mediano de 76 a 86 cm de largo, con un peso de 3,5 a 6,3 kg y una envergadura de aproximadamente 1,99 a 2,6 m. 
+	Tiene una cabeza calva prominente: de color rojo intenso a naranja en el adulto y rojo más pálido en el juvenil. Tiene un cuerpo negro con una banda gris pálido en la base de las plumas de vuelo. 
+	Los sexos difieren en el color del iris: los machos tienen un iris más pálido y blanquecino, mientras que en las hembras es marrón oscuro.</p>
+</div>
+<picture class="imageBox"><img class="imagen"src="https://i.imgur.com/zrluJhd.jpg" alt="manul"></picture>

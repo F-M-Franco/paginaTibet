@@ -1,0 +1,52 @@
+<div class="informationBox">
+	<h1>Yak</h1>
+	<p>El Yak es un bóvido de tamaño mediano, nativo de las montañas de Asia Central y el Himalaya, vive en las altiplanicies esteparias
+	y fríos desiertos del Nepal, Tíbet, Pamir y Karakórum, entre los 4000 y 6000 metros de altitud, donde se encuentra tanto en estado salvaje como doméstico.</p>
+	<h1>Taxonomía</h1>
+	<ul>
+	<li>Reino: Animalia</li>
+	<li>Filo: Chordata</li>
+	<li>Clase: Mammalia</li>
+	<li>Orden: Artiodactyla</li>
+	<li>Familia: Bovidae</li>
+	<li>Género: Bos</li>
+	<li>Especie: B. mutus</li>
+	</ul>
+</div>
+<picture class="imageBox"><img class="imagen"src="https://i.imgur.com/QBB0zd2.jpg" alt="manul"></picture>
+<div class="informationBox">
+	<h1>Descripción</h1>
+	<p>Los ejemplares salvajes (subespecie mutus), hoy escasos, son animales gregarios de pelo 
+	invariablemente largo (sobre todo en la zona abdominal, donde puede llegar hasta el suelo), denso y negro (en los animales viejos adopta un tono marrón) que 
+	cuelga a ambos lados del cuerpo y también de las extremidades, con una joroba sobre los hombros y cuernos largos de un metro de longitud que surgen a ambos lados de amplio cráneo, casi horizontalmente, para acodarse 
+	luego hacía arriba y algo hacia adentro.
+	La cola es peluda a partir de su misma base y lleva en su extremo un gran mechón.
+	Los machos, que son más grandes que las hembras (estas solo alcanzan la mitad del tamaño de los machos), pueden llegar a los 2 metros de altura en la cruz
+	y pesar hasta 1000 kilos. Las pezuñas poseen una superficie de apoyo amplia, mientras que las pezuñas secundarias rozan el suelo mientras escalan. Las hembras tienen dos pares de mamas. 
+	El cuerpo es alargado, lo cual se debe, en parte a que posee un par más de costillas (en total 14) que los restantes bóvidos.</p>
+	<h1>Comportamiento y Dieta</h1>
+	<p>Se alimentan de plantas bajas y carecen de depredadores, aunque pueden sufrir el ataque (muy raramente) de los osos, lobos y leopardos de las nieves.
+	Los rebaños de yaks silvestres se componen de hembras, crías y animales jóvenes. Los machos viven en solitario o formando grupos de hasta 12 individuos. El yak permanece en los lugares que ofrezcan buenos pastos, frecuenta las zonas de hierbas y líquenes; si estos escasean, inmediatamente emigran hacia otro lugar. 
+	Su buen sentido del olfato les permite encontrar siempre los lugares más adecuados.
+	Es un animal que distribuye su actividad al amanecer y el crepúsculo, siendo un buen escalador en terrenos rocosos abruptos y cubiertos de nieve. 
+	Para encontrarse a gusto necesita agua y le agrada además bañarse. Los yaks se apelotonan unos contra otros durante los temporales de nieve, girando su parte trasera hacia el viento. 
+	Los animales excitados yerguen la cola hacia arriba, como si fuese una bandera. Las manadas de lobos atacan a los yaks y capturan ante todo a los ternerillos. 
+	Por dicha causa un rebaño atacado coloca, de ser posible, a sus terneros en el centro.
+	Se perciben los gruñidos del yak durante la época de apareamiento. Los machos luchan entonces entre sí con fuerza, de forma que en no pocas ocasiones se lesionan gravemente. 
+	El periodo de celo empieza en septiembre, durando hasta finales de octubre. Las hembras alumbran a un ternero después de una gestación que ha durado unos 270 días. Las hembras de yak salvaje solo paren una vez cada 2 años. 
+	Alcanzan la madurez sexual al cumplir de 6 a 8 años de vida.</p>
+</div>
+<picture class="imageBox"><img class="imagen"src="https://i.imgur.com/smDCYr1.jpg" alt="manul"></picture>
+<div class="informationBox">
+	<h1>Domesticación</h1>
+	<p>Los yaks han sido domesticados desde hace 3000 años. El yak doméstico tiene una altura hasta la cruz de 140 centímetros para un peso de 700 kilogramos, pueden cruzarse con las vacas domésticas y generar individuos fértiles produciendo más leche y de mayor contenido graso.
+	De hecho, a esta característica se deben gran parte de las diferencias entre los yaks salvajes y los domésticos.
+	Estos últimos son bastante más pequeños que sus antepasados silvestres, tienen cuernos más cortos e incluso muchos yaks domésticos carecen de ellos y el color del pelo puede ser negro, pardo, castaño, blanquecino e incluso manchado de varios colores. El yak es criado como animal doméstico de las zonas frías en extensas regiones de Asia, abarcando desde Afganistán y Bujará hasta Mongolia y norte de China. 
+	En fechas relativamente recientes se importaron yaks en el sur de Groenlandia, siendo el único animal doméstico de su tamaño que ha logrado aclimatarse a la perfección en la isla.
+	En Asia Central se los emplea para llevar cargas (llega a transportar una carga de 150 kilogramos a lo largo de empinados senderos de montaña), también se le utiliza para montarlo y tirar del arado. 
+	También se crían por su carne, apropiada para el consumo humano, produce una leche muy grasa (con la que se hacen quesos y mantequilla de gran calidad) si bien en menor cantidad que otros animales de raza bovina domésticos y pieles (resistentes y calientes). 
+	La cola del yak es utilizada como espantamoscas.
+	El yak se esquila una vez al año, siendo la lana de los animales adultos un tanto áspera y larga, pero permite elaborar perfectamente con ella mantas, cuerdas y otros objetos. 
+	Los excrementos secos son utilizados como combustible, muy apreciado en las zonas de su patria pobres en maderas, el yak es un animal muy apreciado por ello en el Tíbet, donde las familias adornan a sus animales con cintas tanto para diferenciarlos de los demás como por simples motivos estéticos.</p>
+</div>
+<picture class="imageBox"><img class="imagen"src="https://i.imgur.com/1RhZBvq.jpg" alt="manul"></picture>
